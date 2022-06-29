@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Merriweather';
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: black;
+    opacity: 0.6; /* Firefox */
+  }
+
+body {
+    background: rgb(127, 156, 142);
+}
+
+header {
+    padding: 2em;
+    font-size: 1.5em;
+    display: flex;
+    flex-direction: column;
+}
+
+header h1 {
+    margin-bottom: .3em;
+}
+
+#app {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 250px);
+    padding: 1.5em;
+    gap: 2em;
+}
+
+.note {
+    height: 250px;
+    padding: 2em;
+    background-color: beige;
+    font-size: 1.3em;
+    font-weight: 700;
+    border: none;
+    border-radius: .3em;
+    resize: none;
+}
+
+.add-note {
+    height: 250px;
+    border: none;
+    outline: none;
+    border-radius: .5em;
+    font-size: 3em;
+    cursor: pointer;
+    background: rgb(0, 0, 0, 0.3);
+    transition: background 0.2s;
+}
+
+.add-note:hover {
+    background: rgb(0, 0, 0, 0.2);
+}
