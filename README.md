@@ -1,6 +1,6 @@
 # Sticky Notes Application
+![tauhid-sticky-notes](https://github.com/Tauhid-Patel/sticky-notes-application/assets/43630196/2b66a305-1e96-44e5-9f1a-67d579516ff3)
 
-[Sticky Notes Demo] https://silver-travesseiro-df362f.netlify.app
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -14,8 +14,6 @@
 The Sticky Notes Application is a simple and effective note-taking application built using vanilla HTML, CSS, and JavaScript. With its user-friendly interface, this app allows you to create, edit, and organize your notes conveniently.
 
 ## Demo
-[Sticky Notes Demo](link-to-demo-gif.gif)
-
 Check out the live demo [here](https://silver-travesseiro-df362f.netlify.app)!
 
 ## Features
