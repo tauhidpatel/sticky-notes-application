@@ -1,6 +1,4 @@
-# Sticky Notes Application
 ![tauhid-sticky-notes](https://github.com/Tauhid-Patel/sticky-notes-application/assets/43630196/2b66a305-1e96-44e5-9f1a-67d579516ff3)
-
 
 ## Table of Contents
 - [Introduction](#introduction)
